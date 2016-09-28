@@ -1,7 +1,6 @@
 # DataBiding
-# 演示效果
-   ![ABC](https://github.com/xiangzhihong/DataBiding/blob/master/screen/device-2016-09-28-132140.png) 
-   配置环境
+
+# 配置环境
 
 默认需要将Android studio升级到1.3（估计现在大部分都满足），这是因为databinding的build.gradle需要满足最低1.3（Android Studio 已经内置了对 Android Data Binding 框架的支持）。使用的时候只需要在build.gradle添加下面的脚本：
 
@@ -77,3 +76,6 @@ private void getSearchData(String search) {
            }  
        });  
    }   
+
+# 演示效果
+   ![ABC](https://github.com/xiangzhihong/DataBiding/blob/master/screen/device-2016-09-28-132140.png) 
